@@ -14,7 +14,7 @@ Usually my own work, I don't really work on other people's projects unless I was
 Well I keep a lot of projects private as I simply don't want people to steal my work and claim it as their own.<br><br>
 It has happened in the past and I simply don't want it to happen again. I do release open source projects but that usually comes in the form of a custom framework that you can't remove my copyright information from.<br><br>
 
-### **Why don't you commit on GitHub as it looks empty?**<br>
+### **Why don't you commit on GitHub as it looks dead?**<br>
 Most of my projects go through extensive testing before I commit it to GitHub,<br>
 I run a separate Git Source Control to manage and store releases being worked on.<br><br>
 
